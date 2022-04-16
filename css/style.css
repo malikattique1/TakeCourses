@@ -1,0 +1,40 @@
+
+ .people{
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+ }
+
+.navbar-brand{
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 2em;
+  font-weight: bold;
+}
+
+.navbar #myMenu .custom-nav .nav-item a {
+  color: rgb(66, 58, 175);
+}
+.navbar #myMenu .custom-nav .nav-item a:hover{
+  color: #292b7c;
+}
+
+.back-image {
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+  min-height: 70vh;
+  border-radius: 0px;
+  margin-top: 74px;
+}
+
+.st {
+  font-size: 24px;
+  color: white;
+}
+
+a {
+  color:  #3023e4;
+}
+a:hover {
+  color: #E994A2;
+}
